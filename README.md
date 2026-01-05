@@ -17,22 +17,18 @@ I am a passionate **Full-Stack Developer** and Computer Engineering student, cur
 **Languages & Frameworks**
 - **Mobile:** Swift, SwiftUI
 - **Backend:** C# (.NET 8), Minimal APIs
-- **Database:** MS SQL Server, MySQL
+- **Database:** MS SQL Server, MySQL, MongoDB
 - **Web:** HTML, CSS, JavaScript
 
 **Tools & Devops**
 - **Version Control:** Git, SourceTree
-- **Platforms:** Postman, Docker, Xcode, Visual Studio
+- **Platforms:** Postman, Docker, Xcode, Visual Studio Code
 - **OS:** macOS, Linux
 
 ---
 
 ### ⭐ Featured Projects
-- **[Workout Tracker Full-Stack](link-buraya):** A complete workout management system with a SwiftUI frontend and .NET backend.
-- **[Diğer Projen]:** Kısa bir açıklama.
+- **[Workout Tracker Full-Stack](https://github.com/Skylowerr/WorkoutTracker):** A complete workout management system with a SwiftUI frontend and .NET backend.
+- **[Library System](https://github.com/Skylowerr/LibrarySystem):**  The Library Management System is a full-stack application that allows users to manage a book collection. It supports full CRUD (Create, Read, Update, Delete) operations and provides a dynamic, user-friendly mobile experience.
 
 ---
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINKIN_BURAYA)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](INSTAGRAM_BURAYA)
