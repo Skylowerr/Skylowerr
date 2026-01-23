@@ -1,6 +1,6 @@
 # Hi there, I'm Emirhan! 👋
 
-I am a passionate **Full-Stack iOS Developer Learner** and Computer Engineering student, currently focusing on building mobile-first solutions and robust backend systems.
+I am a passionate **Full-Stack iOS Developer & Learner** and Computer Engineering student, currently focusing on building mobile-first solutions and robust backend systems.
 
 ---
 
