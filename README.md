@@ -16,7 +16,7 @@ I am a passionate **Full-Stack iOS Developer & Learner** and Computer Engineerin
 
 **Languages & Frameworks**
 - **Mobile:** Swift, SwiftUI
-- **Backend:** C# (.NET 8), Minimal APIs
+- **Backend:** NodeJS, C# (.NET 8), Minimal APIs
 - **Database:** MS SQL Server, MySQL, MongoDB
 - **Web:** HTML, CSS, JavaScript
 
