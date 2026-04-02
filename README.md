@@ -5,7 +5,7 @@ I am a passionate **Full-Stack iOS Developer & Learner** and Computer Engineerin
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on a **Full-Stack Workout Tracking App** using SwiftUI and .NET.
+- 🔭 I’m currently working on a **Full-Stack Workout Tracking App** using SwiftUI and NodeJS.
 - 🌱 Learning deep dives into **Mobile Architecture (MVVM)** and **Scalable Backend Design**.
 - 🎓 Studying Computer Engineering with a focus on **Object-Oriented Programming (OOP)**.
 - ⚡ I love turning complex problems into simple, clean, and efficient code.
@@ -22,7 +22,7 @@ I am a passionate **Full-Stack iOS Developer & Learner** and Computer Engineerin
 
 **Tools & Devops**
 - **Version Control:** Git, SourceTree
-- **Platforms:** Postman, Docker, Xcode, Visual Studio Code
+- **Platforms:** Postman, Xcode, Visual Studio Code
 - **OS:** macOS, Linux
 
 ---
