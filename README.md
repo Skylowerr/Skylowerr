@@ -28,6 +28,7 @@ I am a passionate **Full-Stack iOS Developer & Learner** and Computer Engineerin
 ---
 
 ### ⭐ Featured Projects
-- **[KeychainManager](https://github.com/Skylowerr/KeychainManager):** A lightweight Swift library for securely storing sensitive data using Apple's Keychain Services. Built with no third-party dependencies and fully unit tested.
+- **[KeychainManager](https://github.com/Skylowerr/keychain-manager):** A lightweight Swift library for securely storing sensitive data using Apple's Keychain Services. Built with no third-party dependencies and fully unit tested.
+
 - **[Surviving The Titanic](https://github.com/Skylowerr/SurvivingTheTitanic):** A SwiftUI iOS app that predicts Titanic survival chances using an on-device Core ML logistic regression model. No internet connection required.
 ---
