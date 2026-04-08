@@ -28,7 +28,6 @@ I am a passionate **Full-Stack iOS Developer & Learner** and Computer Engineerin
 ---
 
 ### ⭐ Featured Projects
-- **[Workout Tracker Full-Stack](https://github.com/Skylowerr/WorkoutTracker):** A complete workout management system with a SwiftUI frontend and .NET backend.
-- **[Library System](https://github.com/Skylowerr/LibrarySystem):**  The Library Management System is a full-stack application that allows users to manage a book collection. It supports full CRUD (Create, Read, Update, Delete) operations and provides a dynamic, user-friendly mobile experience.
-
+- **[KeychainManager](https://github.com/Skylowerr/KeychainManager):** A lightweight Swift library for securely storing sensitive data using Apple's Keychain Services. Built with no third-party dependencies and fully unit tested.
+- **[Surviving The Titanic](https://github.com/Skylowerr/SurvivingTheTitanic):** A SwiftUI iOS app that predicts Titanic survival chances using an on-device Core ML logistic regression model. No internet connection required.
 ---
