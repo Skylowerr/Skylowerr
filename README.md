@@ -20,7 +20,7 @@ I am a passionate **iOS Developer & Learner** and Computer Engineering student, 
 - **Web:** HTML, CSS, JavaScript
 
 **Tools & Devops**
-- **Version Control:** Git, SourceTree
+- **Version Control:** Git, GitKraken, SourceTree
 - **Platforms:** Postman, Xcode, Visual Studio Code
 - **OS:** macOS, Linux
 
