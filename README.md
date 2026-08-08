@@ -16,7 +16,7 @@ I am a passionate **iOS Developer & Learner** and Computer Engineering student, 
 **Languages & Frameworks**
 - **Mobile:** Swift, SwiftUI
 - **Backend:** NodeJS, C# (.NET 8), Minimal APIs
-- **Database:** MS SQL Server, MySQL, MongoDB
+- **Database:** Firebase, MS SQL Server, MySQL, MongoDB
 - **Web:** HTML, CSS, JavaScript
 
 **Tools & Devops**
